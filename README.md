@@ -96,7 +96,6 @@
   <img src="https://streak-stats.demolab.com?user=daanish05&theme=tokyonight&hide_border=true"/>
 </p>
 
----
 <!-- 
 # 🏆 GitHub Trophies
 
@@ -115,6 +114,8 @@
 <p align="center">
   <i>⭐ Thanks for visiting my profile! If you like my work, consider starring my repositories.</i>
 </p>
+
+---
 
 <h2 align="center">🐍 Contributions Snake</h2>
 
