@@ -1,40 +1,5 @@
 ## Hi there 👋 I'm Daanish Shaikh
-
-name: Generate arcade animation
-
-on:
-  schedule: # execute every 12 hours
-    - cron: "* */12 * * *"
-
-  workflow_dispatch:
-
-  push:
-    branches:
-    - main
-
-jobs:
-  generate:
-    permissions:
-      contents: write
-    runs-on: ubuntu-latest
-    timeout-minutes: 20
-
-    steps:
-      - name: generate pacman-contribution-graph.svg
-        uses: abozanona/pacman-contribution-graph@main
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          games: 'pacman'
-
-
-      - name: push pacman-contribution-graph.svg to the output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: pacman-output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          
+<!-- Uploading "212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif"... -->
 # 💫 About Me:
 💻 Interested in Full-Stack Development, AI, and Cloud Technologies.<br>🌱 Currently learning modern frameworks, system design, and best software engineering practices.<br>🔨 I enjoy building real-world projects that solve meaningful problems.<br>🤝 Open to collaborating on open-source projects and innovative ideas.<br>📚 Always learning and experimenting with new technologies.
 
