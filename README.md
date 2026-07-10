@@ -1,5 +1,5 @@
 ## Hi there 👋 I'm Daanish Shaikh
-<img width="480" height="360" alt="Image" src="https://github.com/user-attachments/assets/2a035610-ec09-4ab8-81af-1e0dcdd1fae2" />
+<img width="480" height="360" alt="Image" src="https://github.com/user-attachments/assets/2a035610-ec09-4ab8-81af-1e0dcdd1fae2" /> <br>
 # 💫 About Me:
 💻 Interested in Full-Stack Development, AI, and Cloud Technologies.<br>🌱 Currently learning modern frameworks, system design, and best software engineering practices.<br>🔨 I enjoy building real-world projects that solve meaningful problems.<br>🤝 Open to collaborating on open-source projects and innovative ideas.<br>📚 Always learning and experimenting with new technologies.
 
