@@ -115,3 +115,9 @@
 <p align="center">
   <i>⭐ Thanks for visiting my profile! If you like my work, consider starring my repositories.</i>
 </p>
+
+<h2 align="center">🐍 Contributions Snake</h2>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/daanish05/daanish05/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
+</p>
