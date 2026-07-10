@@ -39,10 +39,8 @@
 
 
 <h1 align="center">Hi there 👋 I'm Daanish Shaikh</h1>
-
-<h3 align="center">💻 Full-Stack Developer | 🤖 AI Learner</h3>
 ---
-
+<!-- <h3 align="center">💻 Full-Stack Developer | 🤖 AI Learner</h3> -->
 # 💫 About Me
 
 - 💻 Interested in **Full-Stack Development, AI, and Cloud Technologies**
