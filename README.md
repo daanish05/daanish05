@@ -1,5 +1,5 @@
 ## Hi there 👋 I'm Daanish Shaikh
-<!-- Uploading "212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif"... -->
+Uploading "212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif"... 
 # 💫 About Me:
 💻 Interested in Full-Stack Development, AI, and Cloud Technologies.<br>🌱 Currently learning modern frameworks, system design, and best software engineering practices.<br>🔨 I enjoy building real-world projects that solve meaningful problems.<br>🤝 Open to collaborating on open-source projects and innovative ideas.<br>📚 Always learning and experimenting with new technologies.
 
