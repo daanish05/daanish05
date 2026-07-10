@@ -100,7 +100,7 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=daanish05&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10"/>
 </p>
---->
+
 ---
 
 <p align="center">
@@ -110,7 +110,7 @@
 <p align="center">
   <i>⭐ Thanks for visiting my profile! If you like my work, consider starring my repositories.</i>
 </p>
-
+--->
 ---
 
 <h2 align="center">🐍 Contributions Snake</h2>
