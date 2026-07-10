@@ -40,12 +40,7 @@
 
 <h1 align="center">Hi there 👋 I'm Daanish Shaikh</h1>
 
-<h3 align="center">💻 Full-Stack Developer | ☁️ Cloud Enthusiast | 🤖 AI Learner</h3>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="400" alt="Coding GIF"/>
-</p>
-
+<h3 align="center">💻 Full-Stack Developer | 🤖 AI Learner</h3>
 ---
 
 # 💫 About Me
@@ -105,21 +100,13 @@
 </p>
 
 ---
-
+<!-- 
 # 🏆 GitHub Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=daanish05&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10"/>
 </p>
-
----
-
-# ✍️ Random Dev Quote
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-</p>
-
+--->
 ---
 
 <p align="center">
