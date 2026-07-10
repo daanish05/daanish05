@@ -36,8 +36,6 @@
 
 
 
-
-
 <h1 align="center">Hi there 👋 I'm Daanish Shaikh</h1>
 <!-- <h3 align="center">💻 Full-Stack Developer | 🤖 AI Learner</h3> -->
 # 💫 About Me
@@ -49,7 +47,7 @@
 - 📚 Always learning and experimenting with new technologies
 
 ---
-
+ 
 ## 🌐 Connect With Me
 
 <p align="left">
@@ -108,8 +106,6 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=daanish05&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 </p>
-
----
 
 <p align="center">
   <i>⭐ Thanks for visiting my profile! If you like my work, consider starring my repositories.</i>
