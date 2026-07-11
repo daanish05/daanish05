@@ -38,7 +38,7 @@
 
 <h1>Hi there 👋 I'm Daanish Shaikh</h1>
 <!-- <h3 align="center">💻 Full-Stack Developer | 🤖 AI Learner</h3> -->
-# 💫 About Me
+💫 About Me
 
 - 💻 Interested in **Full-Stack Development, AI, and Cloud Technologies**
 - 🌱 Currently learning **Modern Frameworks, System Design, and Software Engineering Best Practices**
@@ -51,16 +51,16 @@
 ## 🌐 Connect With Me
 
 <p align="left">
-  <a href="https://instagram.com/daanish8055" target="_blank">
+  <a href="https://instagram.com/daanish8055">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/daanish-shaikh-99858b298" target="_blank">
+  <a href="https://www.linkedin.com/in/daanish-shaikh-99858b298">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://stackoverflow.com/users/26502687" target="_blank">
+  <a href="https://stackoverflow.com/users/26502687">
     <img src="https://img.shields.io/badge/Stack%20Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/>
   </a>
-  <a href="mailto:daanishtamboli.05@gmail.com" target="_blank">
+  <a href="mailto:daanishtamboli.05@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
